@@ -72,7 +72,7 @@ The project directory contains the following files:
 
 The project generates various types of visualizations, including choropleth maps and bar plots. These visualizations provide insights into different aspects of metro systems data, such as system length, number of stations, annual ridership, ongoing projects, and more.
 
-<iframe src="https://yourdomain.com/interactive_visualization.html" width="800" height="600"></iframe>
+<iframe src="interactive_visualization.html" width="800" height="600"></iframe>
 
 
 ## Contributing
