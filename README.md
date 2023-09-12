@@ -1,4 +1,4 @@
-Certainly! Here's an example of a README file that you can use to provide an overview of your data visualization project:
+
 
 ---
 
